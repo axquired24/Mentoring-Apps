@@ -2,8 +2,7 @@
 -------------
 PHP & MySQL based system to store student who joined Mentoring in Universitas Muhammadiyah Surakarta. Created by Albert @ IMM Adam Malik (Faculty of Communication and Informatics) Kader 2013
 
-
-#### Detail
+##### Detail
 1. MySQL DB - Import on ./db_backup/imm_mentoring.sql
 2. This web require *bs3_dist* folder download from [here](https://github.com/axquired24/bs3_dist/) 
 3. Best view on Google Chrome (Not Supported on Microsoft Edge)
